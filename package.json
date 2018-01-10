@@ -1,0 +1,15 @@
+{
+  "name": "megamanx-dev",
+  "version": "1.0.4",
+  "description": "Megaman says Hello",
+  "main": "./dist/index.js",
+  "typings": "./dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Martin <m4rt1ncr@gmail.com>",
+  "license": "ISC"
+}
